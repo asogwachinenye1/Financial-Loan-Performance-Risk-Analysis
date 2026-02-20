@@ -1,7 +1,6 @@
-<img width="851" height="572" alt="image" src="https://github.com/user-attachments/assets/94e288d2-1392-4886-b627-4ee66e2ec8b2" />
-
-
 # Financial Loan Performance & Risk Analysis
+
+<img width="851" height="572" alt="image" src="https://github.com/user-attachments/assets/94e288d2-1392-4886-b627-4ee66e2ec8b2" />
 
 ## Project Purpose
 This project analyzes a financial institution's loan dataset to understand how customers borrow, repay, and default on loans.
