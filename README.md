@@ -7,8 +7,8 @@ This project analyzes a financial institution's loan dataset to understand how c
 The goal is to transform raw transactional data into meaningful insights that help management make better lending decisions, reduce losses, and approve the right customers.
 In simple terms, the analysis answers:
 * Are we lending money safely?
-* * Who is most likely to repay?
-Who is most likely to default?
+* Who is most likely to repay?
+* Who is most likely to default?
 * What rules should the company change?
 
 
@@ -198,8 +198,8 @@ To make patterns easier to detect, raw numbers were grouped into meaningful busi
 <img width="795" height="767" alt="image" src="https://github.com/user-attachments/assets/4f1c98af-d38e-4a3f-9c96-6dc897284855" />
 
 
+## Calculated columns 
 * Income groups
-Debt burden levels
 * Employment stability levels
 * Loan size categories
 * Interest rate bands
